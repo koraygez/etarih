@@ -1,0 +1,11 @@
+{
+    "title": "İstanbul'un Fethi",
+    "description": "1453 yılında Osmanlı Padişahı Fatih Sultan Mehmet, İstanbul'u kuşatarak Bizans İmparatorluğu'na son verdi. Modern teknoloji ve askeri stratejilerle desteklenen güçlü Osmanlı ordusu, şehrin surlarını yardı ve destansı bir mücadelenin ardından İstanbul'u fethetti. Bu zafer, Osmanlı İmparatorluğu'nun yükselişini simgelerken, aynı zamanda dünya tarihinde önemli bir dönüm noktası olarak kabul edildi.",
+    "image": "data/images/istanbulunFethi.png",
+    "video": "data/videos/istanbulunFethi.mp4",
+    "details": [
+        "30 Mayıs 1453",
+        "Bizans İmparatorluğu'nun düşmesi",
+        "Osmanlı İmparatorluğu'nun güçlenmesi"
+    ]
+}

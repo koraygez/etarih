@@ -1,0 +1,28 @@
+{
+    "title": "Fatih Sultan Mehmet",
+    "birth": "1432",
+    "death": "1481",
+    "reign": "1444-1446 (İlk Saltanat)\n1451-1481 (İkinci Saltanat)",
+    "pages": [
+        {
+            "title": "Hayatı",
+            "content": "Fatih Sultan Mehmet, 30 Mart 1432'de Edirne'de dünyaya geldi. Babası II. Murad, annesi Hüma Hatun'dur. İlk eğitimini Akşemseddin'den aldı. Çok iyi bir eğitim gören Fatih, Arapça, Farsça, Latince, Yunanca ve Sırpça dillerini öğrendi. İki kez tahta çıkan Fatih Sultan Mehmet, ilk saltanatında henüz çok genç olduğu için kısa sürdü. İkinci saltanatında ise 30 yıl hüküm sürdü.",
+            "image": "data/images/fatihHayati.png"
+        },
+        {
+            "title": "Fetihleri",
+            "content": "Fatih Sultan Mehmet'in en önemli fetihleri:\n\n- İstanbul'un Fethi (1453)\n- Kırım'ın Alınması (1475)\n- Trabzon'un Alınması (1461)\n- Mora'nın Fethi (1460)\n- Sırbistan Seferleri (1454-1459)\n- Boğdan Seferi (1476)\n\nBu fetihlerle Osmanlı Devleti, hem Balkanlarda hem de Karadeniz'de güçlü bir konuma ulaştı.",
+            "image": "data/images/fatihFetihleri.png"
+        },
+        {
+            "title": "Yenilikleri",
+            "content": "Fatih Sultan Mehmet döneminde yapılan önemli yenilikler:\n\n- Topçu Ocağı'nın kurulması\n- Yeniçeri Ocağı'nın güçlendirilmesi\n- İlk Osmanlı kanunnamesinin hazırlanması\n- Divan teşkilatının geliştirilmesi\n- Medreselerin yeniden düzenlenmesi\n- İstanbul'un imar edilmesi\n\nBu yeniliklerle Osmanlı Devleti, merkezi bir yapıya kavuştu.",
+            "image": "data/images/fatihYenilikleri.png"
+        },
+        {
+            "title": "Bilim ve Kültür",
+            "content": "Fatih Sultan Mehmet, bilim ve kültüre büyük önem verdi:\n\n- İtalyan sanatçıları sarayına davet etti\n- Avrupa'dan bilim adamlarını getirdi\n- Topkapı Sarayı'nı inşa ettirdi\n- Ayasofya'yı camiye çevirdi\n- Fatih Medresesi'ni kurdu\n- İstanbul'u bir bilim ve kültür merkezi haline getirdi",
+            "image": "data/images/fatihBilim.png"
+        }
+    ]
+} 

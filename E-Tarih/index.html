@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Savaş Atlası</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="lib/leaflet.css">
+    <script src="data/Map.geojson"></script>
+    <script src="lib/leaflet.js"></script>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="sidebar">
+        <button id="toggle-sidebar" class="toggle-button">
+            <span class="toggle-icon">◀</span>
+        </button>
+        <div class="sidebar-content">
+            <div class="sidebar-header">
+                <h2>Dünya Gücü Osmanlı</h2>
+                <div class="header-divider"></div>
+            </div>
+            
+            <div class="sultan-cards">
+                <div id="fatih-sultan-mehmet" class="sultan-card">
+                    <div class="sultan-image">
+                        <img src="data/images/fsm.png" alt="Fatih Sultan Mehmet">
+                    </div>
+                    <h3>Fatih Sultan Mehmet</h3>
+                </div>
+
+                <div id="yavuz-sultan-selim" class="sultan-card">
+                    <div class="sultan-image">
+                        <img src="data/images/yss.png" alt="Yavuz Sultan Selim">
+                    </div>
+                    <h3>Yavuz Sultan Selim</h3>
+                </div>
+
+                <div id="kanuni-sultan-suleyman" class="sultan-card">
+                    <div class="sultan-image">
+                        <img src="data/images/kss.png" alt="Kanuni Sultan Süleyman">
+                    </div>
+                    <h3>Kanuni Sultan Süleyman</h3>
+                </div>
+
+            </div>
+
+            <div class="sidebar-footer">
+                <button id="remove" class="clear-button">
+                    <span class="button-icon">🗑️</span>
+                    <span class="button-text">Haritayı Temizle</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
